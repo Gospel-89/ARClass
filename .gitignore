@@ -9,6 +9,8 @@
 # Java class files
 *.class
 
+ARCLASSPROJECT1.apk
+
 # Generated files
 bin/
 gen/
